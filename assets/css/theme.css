@@ -1058,7 +1058,7 @@ letter-spacing: 2px;
 .hero-5 p {
   color: #fff;
 }
-.hero-5 img {
+.hero-5 .item img {
     -webkit-animation: zoom 24s infinite alternate; /* Chrome, Safari, Opera */
     animation: zoom 24s infinite alternate;
 }
